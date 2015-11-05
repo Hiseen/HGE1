@@ -1,0 +1,144 @@
+﻿生成启动时间为 2015/5/11 22:42:52。
+     1>项目“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\HGE1\HGE1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /IF:\hge181\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt RenderPool.cpp
+         RenderPool.cpp
+     1>f:\vs2013\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 f:\vs2013\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\fontpool.h(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\gameobject.h(107): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\gameobject.h(263): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\gameobject.h(265): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\skill.h(59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\sfxmanager.h(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\noticemanager.h(21): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\shield.h(21): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(88): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(100): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(122): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(123): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(124): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(125): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(126): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(127): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(141): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(142): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\main.h(172): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(81): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(88): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(116): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(123): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(135): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(141): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(150): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(156): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(213): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(222): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(240): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(243): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(264): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(269): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(273): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(282): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(350): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(364): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(372): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(386): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\objectpool.h(412): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(97): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(115): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.h(121): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(175): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(180): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(270): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(327): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(342): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(383): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(397): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(414): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(415): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(437): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(460): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(478): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(506): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(514): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>f:\360data\重要数据\我的文档\visual studio 2013\projects\hge1\hge1\renderpool.cpp(520): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\HGE1.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\hge181\lib\vc hge.lib hgehelp.lib /NODEFAULTLIB:LIBC.lib /NODEFAULTLIB:LIBCMTD.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\HGE1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\HGE1.lib" /MACHINE:X86 /PROFILE Debug\Action.obj
+         Debug\AnimObject.obj
+         Debug\Bar.obj
+         Debug\BlackHole.obj
+         Debug\BOSS.obj
+         Debug\BuffManager.obj
+         Debug\Bullet.obj
+         Debug\Button.obj
+         Debug\DMGFont.obj
+         Debug\Enemy.obj
+         Debug\EXPUnit.obj
+         Debug\FloatingObject.obj
+         Debug\FontPool.obj
+         Debug\GameObject.obj
+         Debug\GfxFont.obj
+         Debug\Hero.obj
+         Debug\ImageObject.obj
+         Debug\Item.obj
+         Debug\ItemEnemy.obj
+         Debug\main.obj
+         Debug\Mask.obj
+         Debug\Mine.obj
+         Debug\MPUnit.obj
+         Debug\NoticeManager.obj
+         Debug\NoticeUnit.obj
+         Debug\ObjectPool.obj
+         Debug\Range.obj
+         Debug\RenderPool.obj
+         Debug\SceneManager.obj
+         Debug\SFXManager.obj
+         Debug\SFXObject.obj
+         Debug\Shield.obj
+         Debug\SKILL.obj
+         Debug\Skills.obj
+         Debug\SKILLToken.obj
+         Debug\VirtualObject.obj
+         Debug\VirtualSkill.obj
+         Debug\ZoomObject.obj
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+     1>Action.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+     1>hgehelp.lib(hgeanim.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgeanim.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>hgehelp.lib(hgefont.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgefont.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>hgehelp.lib(hgeparticle.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgeparticle.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>hgehelp.lib(hgerect.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgerect.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>hgehelp.lib(hgesprite.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgesprite.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>hgehelp.lib(hgevector.obj) : warning LNK4099: 未找到 PDB“vc90.pdb”(使用“hgehelp.lib(hgevector.obj)”或在“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\vc90.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         HGE1.vcxproj -> F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\HGE1.exe
+       BscMake:
+         F:\VS2013\VC\bin\bscmake.exe /nologo /o"F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\Debug\HGE1.bsc" /n Debug\Action.sbr Debug\AnimObject.sbr Debug\Bar.sbr Debug\BlackHole.sbr Debug\BOSS.sbr Debug\BuffManager.sbr Debug\Bullet.sbr Debug\Button.sbr Debug\DMGFont.sbr Debug\Enemy.sbr Debug\EXPUnit.sbr Debug\FloatingObject.sbr Debug\FontPool.sbr Debug\GameObject.sbr Debug\GfxFont.sbr Debug\Hero.sbr Debug\ImageObject.sbr Debug\Item.sbr Debug\ItemEnemy.sbr Debug\main.sbr Debug\Mask.sbr Debug\Mine.sbr Debug\MPUnit.sbr Debug\NoticeManager.sbr Debug\NoticeUnit.sbr Debug\ObjectPool.sbr Debug\Range.sbr Debug\RenderPool.sbr Debug\SceneManager.sbr Debug\SFXManager.sbr Debug\SFXObject.sbr Debug\Shield.sbr Debug\SKILL.sbr Debug\Skills.sbr Debug\SKILLToken.sbr Debug\VirtualObject.sbr Debug\VirtualSkill.sbr Debug\ZoomObject.sbr
+     1>已完成生成项目“F:\360data\重要数据\我的文档\Visual Studio 2013\Projects\HGE1\HGE1\HGE1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:24.52
